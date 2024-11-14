@@ -1,0 +1,10 @@
+{
+  "error": "invalid_grant",
+  "error_description": "AADSTS50005: User tried to log in to a device from a platform (Unknown) that's currently not supported through Conditional Access policy. Supported device platforms are: iOS, Android, Mac, and Windows flavors. Trace ID: 44f48cb0-54ab-4ab3-890d-d7c419902e00 Correlation ID: bc11c002-b5fc-47a7-a218-80c0737604db Timestamp: 2024-11-14 19:55:32Z",
+  "error_codes": [
+    50005
+  ],
+  "timestamp": "2024-11-14 19:55:32Z",
+  "trace_id": "44f48cb0-54ab-4ab3-890d-d7c419902e00",
+  "correlation_id": "bc11c002-b5fc-47a7-a218-80c0737604db"
+}
